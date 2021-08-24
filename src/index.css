@@ -1,0 +1,20 @@
+html,
+body {
+  background-color: #21232a;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.3rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  font-size: 1.3rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+}

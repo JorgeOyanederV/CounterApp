@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <counterApp /> Debe de mostrar el valor por defecto cuando no se le envia el valor 1`] = `ShallowWrapper {}`;
